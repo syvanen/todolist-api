@@ -23,7 +23,6 @@
   },
   "devDependencies": {
     "blanket": "1.2.3",
-    "connect-livereload": "0.6.0",
     "fs-extra": "5.0.0",
     "grunt": "1.0.2",
     "grunt-build-control": "0.7.1",
